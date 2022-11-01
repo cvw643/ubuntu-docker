@@ -1,3 +1,5 @@
+#!/bin/bash -x
+
 # Install using the repository
 # Before you install Docker Engine for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker from the repository.
 
